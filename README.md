@@ -1,3 +1,4 @@
 # PORTFOLIO
 
-portfolio website created using react.js
+portfolio website created using react.js and also it is reponsive
+
