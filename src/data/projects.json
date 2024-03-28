@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Shopzon",
+      "imageSrc": "projects/amazzzon.png",
+      "description": "This is a clone of a shopping website selling shoes.",
+      "skills": ["Html", "CSS", "Javascript"]
+    },
+    {
+      "title": "Funflix",
+      "imageSrc": "projects/netflix.webp",
+      "description": "This is a clone of netflix with some additional features.",
+      "skills": ["React", "Express", "Node", "MongoDB"]
+    },
+    {
+      "title": "Whatsdown",
+      "imageSrc": "projects/whatdown.png",
+      "description": "This is a chat app clone of whatsapp.",
+      "skills": ["Typescript", "Tailwind CSS", "React"]
+    }
+  ]

@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Full stack Developer",
+    "organisation": "Healtho",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Currently working at this startup", "A health related startup"],
+    "imageSrc": "history/Healtho.png"
+  },
+  {
+    "role": "Backend Developer",
+    "organisation": "Hackathon",
+    "startDate": "Aug, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Created the backend of a travel site", "Use of proper api and algortihms"],
+    "imageSrc": "history/hackathon.png"
+  }
+]
